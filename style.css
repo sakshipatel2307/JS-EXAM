@@ -1,0 +1,24 @@
+* 
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: poppins, sans-serif;
+}
+table 
+{
+    width: 70%;
+    margin: 20px 20px;
+    font-size: 18px;
+    text-align: left;
+    position: absolute;
+    left: 14%;
+    border-radius: 10px;
+}
+tr, td 
+{
+    padding: 12px;
+    border: 1px solid rgb(164, 162, 162);
+}
+
+  
